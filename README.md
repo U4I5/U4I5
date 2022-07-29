@@ -27,27 +27,22 @@
 </div>
 
 ###
-
-<p align="left">👨‍💻 I’m currently working as Sysadmin<br><br>🚩 I'm currently learning Ethical hacking</p>
-
-###
-
 <img align="right" height="200" src="https://media.giphy.com/media/5tdpB5x3FzD3iNcLgh/giphy.gif"  />
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Greydark.png" alt="TryHackMe"> 
+
+
+
+
+- 🤝 I’m currently learning **Ethical hacking** 
+
+- 🔭 I’m currently working as **Sysadmin**
+
+
+###
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=u4i5&" alt="u4i5" /></p>
 
 ###
 
-<br clear="both">
-
-<div align="right">
-  <a href=" https://www.youtube.com/channel/UCZAUQxjUAFaN_6JCOy2IoCw?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-###
-
-<br clear="both">
 
 
 
