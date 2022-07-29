@@ -32,7 +32,7 @@
 
 
 - 👨‍💻 I’m currently working as **Sysadmin**
-- 🚩 I'm currently learning Ethical **hacking**
+- 🚩 I'm currently learning **Ethical hacking**
 
    <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Greydark.png" alt="TryHackMe"> 
 
