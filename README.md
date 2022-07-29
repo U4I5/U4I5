@@ -28,18 +28,18 @@
 
 ###
 <img align="right" height="200" src="https://media.giphy.com/media/5tdpB5x3FzD3iNcLgh/giphy.gif"  />
-<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Greydark.png" alt="TryHackMe"> 
 
 
 
+- 👨‍💻 I’m currently working as **Sysadmin**
+- 🚩 I'm currently learning Ethical **hacking**
 
-- 🤝 I’m currently learning **Ethical hacking** 
+   <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Greydark.png" alt="TryHackMe"> 
 
-- 🔭 I’m currently working as **Sysadmin**
 
 
 ###
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=u4i5&" alt="u4i5" /></p>
+
 
 ###
 
