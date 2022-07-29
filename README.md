@@ -36,19 +36,3 @@
 
    <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Greydark.png" alt="TryHackMe"> 
 
-
-
-###
-
-
-###
-
-
-
-
-
-
-
-
-
-###
