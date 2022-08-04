@@ -13,11 +13,11 @@
 -   👨‍💻 **I’m currently working as Sysadmin**
 -   🎲 **fact : Keyboard shortcuts are my best friends**
 
-<img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=U4i5&theme=codeSTACKr&show_icons=true" />
+<img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=U4i5&theme=algolia&show_icons=true" />
 
 <div align="right">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U4I5&layout=compact&theme=codeSTACKr&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U4I5&layout=compact&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 </div>
 
