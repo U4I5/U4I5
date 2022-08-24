@@ -8,8 +8,7 @@
 # 🙋‍♂️ **About Me**
 
 -   ✨ **I love coding bots**
--   🚩 **I'm currently  playing CTF**
-
+-   🚩 **I'm CTF player [Capture the flag]**
 -   👨‍💻 **I’m currently working as Sysadmin**
 -   🎲 **fact : Keyboard shortcuts are my best friends**
 
