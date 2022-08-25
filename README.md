@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm U4I5 Aka Ur!3l</h1>
+<h1 align="left">Hi 👋, I'm U4I5 Alias Ur!el</h1>
 
 ###
 
