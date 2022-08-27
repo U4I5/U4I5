@@ -9,6 +9,7 @@
 
 -   ✨ **I love coding bots**
 -   🚩 **I'm CTF player [Capture the flag]**
+-   🚩 **I'm KOTH player [King Of The Hill]**
 -   👨‍💻 **I’m currently working as Sysadmin**
 -   🎲 **fact : Keyboard shortcuts are my best friends**
 
