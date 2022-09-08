@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm U4I5 Alias Ur!el</h1>
+<h1 align="left">Hi 👋, I'm U4I5 Alias Greydark </h1>
 
 ###
 
@@ -7,7 +7,7 @@
 
 # 🙋‍♂️ **About Me**
 
--   ✨ **I love coding bots**
+-   ✨ **I love coding bots and Scripts**
 -   🚩 **I'm CTF player [Capture the flag]**
 -   🚩 **I'm KOTH player [King Of The Hill]**
 -   👨‍💻 **I’m currently working as Sysadmin**
