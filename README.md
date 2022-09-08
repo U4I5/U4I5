@@ -50,7 +50,7 @@
 
 # 👌**More  :**
 
-<img align="right" src="tryhackme-badges.s3.amazonaws.com/Greydark.png" alt="TryHackMe"> 
+<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/Greydark.png" alt="TryHackMe"> 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=66k0lts987yw8axmnek5p281h&cover_image=true&theme=natemoo-re&bar_color=0080ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=66k0lts987yw8axmnek5p281h&redirect=true)
 
