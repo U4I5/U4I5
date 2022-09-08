@@ -48,7 +48,7 @@
    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-# 👌**More  :**
+# 👌**hobbies :**
 
 <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/Greydark.png" alt="TryHackMe"> 
 
