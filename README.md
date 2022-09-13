@@ -5,7 +5,7 @@
 <h3 align="left">I hate IT, no I'm kidding 😅, computer science is my life ❤️</h3>
 
 
-# 🙋‍♂️ **About Me**
+# 🙋‍♂️ **Whoami**
 
 -   ✨ **I love coding bots and Scripts**
 -   🚩 **I'm CTF player [Capture the flag]**
