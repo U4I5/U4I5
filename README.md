@@ -6,9 +6,8 @@
 
 
 # 🙋‍♂️ **Whoami**
-
--   ✨ **I love coding bots and Scripts**
 -   🔍 **I'm Pentester**
+-   ✨ **I love coding bots and Scripts**
 -   🚩 **I'm CTF player [Capture the flag]**
 -   🚩 **I'm KOTH player [King Of The Hill]**
 -   👨‍💻 **I’m currently working as Sysadmin**
