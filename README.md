@@ -6,7 +6,7 @@
 
 
 # 🙋‍♂️ **Whoami**
--   🔍 **I'm Pentester**
+-   🔍 **Road to Red Teamer**
 -   ✨ **I love coding bots and Scripts**
 -   👨‍💻 **Currently working as System Security Administrator**
 -   🚩 **I'm CTF player [Capture the flag] and KOTH player [King Of The Hill]**
