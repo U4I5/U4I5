@@ -6,10 +6,11 @@
 
 
 # 🙋‍♂️ **Whoami**
--   🔍 **Road to Red Teaming**
--   ✨ **I love coding bots and Scripts**
+-   🟥 **Road to Red Teaming**
+-   🚩 **I'm CTF player [Capture the flag]**
+-   ❤️ **I love coding bots and Scripts**
 -   👨‍💻 **Currently working as System Security Administrator**
--   🚩 **I'm CTF player [Capture the flag] and KOTH player [King Of The Hill]**
+
 -   🎲 **fact : Keyboard shortcuts are my best friends**
 
 <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=U4i5&theme=algolia&show_icons=true" />
