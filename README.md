@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I hate IT, no I'm kidding 😅, Computer Science is My Life ❤️</h3>
+<h3 align="left">I hate IT, no I'm kidding 😅, Computer Sciences is My Life ❤️</h3>
 
 
 # 🙋‍♂️ **Whoami**
