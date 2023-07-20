@@ -9,7 +9,7 @@
 -   🟥 **Road to Red Teaming**
 -   🚩 **I'm CTF player [Capture the flag]**
 -   ❤️ **I love coding bots and Scripts**
--   👨‍💻 **Currently working as System Security Administrator**
+-   👨‍💻 **Currently working as DevSecOps**
 
 -   🎲 **fact : Keyboard shortcuts are my best friends**
 
